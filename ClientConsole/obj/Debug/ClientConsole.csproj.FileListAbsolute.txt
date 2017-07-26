@@ -1,0 +1,5 @@
+D:\Tekstit\julku_ville-veikko\Documents\Project_Documents\RestTest\ClientConsole\bin\Debug\ClientConsole.exe.config
+D:\Tekstit\julku_ville-veikko\Documents\Project_Documents\RestTest\ClientConsole\bin\Debug\ClientConsole.exe
+D:\Tekstit\julku_ville-veikko\Documents\Project_Documents\RestTest\ClientConsole\bin\Debug\ClientConsole.pdb
+D:\Tekstit\julku_ville-veikko\Documents\Project_Documents\RestTest\ClientConsole\obj\Debug\ClientConsole.exe
+D:\Tekstit\julku_ville-veikko\Documents\Project_Documents\RestTest\ClientConsole\obj\Debug\ClientConsole.pdb

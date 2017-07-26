@@ -1,0 +1,5 @@
+D:\Tekstit\julku_ville-veikko\Documents\Project_Documents\RestTest\ClassLibraryWcf\bin\Debug\ClassLibraryWcf.dll
+D:\Tekstit\julku_ville-veikko\Documents\Project_Documents\RestTest\ClassLibraryWcf\bin\Debug\ClassLibraryWcf.pdb
+D:\Tekstit\julku_ville-veikko\Documents\Project_Documents\RestTest\ClassLibraryWcf\obj\Debug\ClassLibraryWcf.dll
+D:\Tekstit\julku_ville-veikko\Documents\Project_Documents\RestTest\ClassLibraryWcf\obj\Debug\ClassLibraryWcf.pdb
+D:\Tekstit\julku_ville-veikko\Documents\Project_Documents\RestTest\ClassLibraryWcf\obj\Debug\ClassLibraryWcf.csprojResolveAssemblyReference.cache

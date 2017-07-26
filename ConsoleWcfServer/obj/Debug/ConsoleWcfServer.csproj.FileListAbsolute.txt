@@ -1,0 +1,8 @@
+D:\Tekstit\julku_ville-veikko\Documents\Project_Documents\RestTest\ConsoleWcfServer\obj\Debug\ConsoleWcfServer.csprojResolveAssemblyReference.cache
+D:\Tekstit\julku_ville-veikko\Documents\Project_Documents\RestTest\ConsoleWcfServer\bin\Debug\ConsoleWcfServer.exe.config
+D:\Tekstit\julku_ville-veikko\Documents\Project_Documents\RestTest\ConsoleWcfServer\bin\Debug\ConsoleWcfServer.exe
+D:\Tekstit\julku_ville-veikko\Documents\Project_Documents\RestTest\ConsoleWcfServer\bin\Debug\ConsoleWcfServer.pdb
+D:\Tekstit\julku_ville-veikko\Documents\Project_Documents\RestTest\ConsoleWcfServer\obj\Debug\ConsoleWcfServer.exe
+D:\Tekstit\julku_ville-veikko\Documents\Project_Documents\RestTest\ConsoleWcfServer\obj\Debug\ConsoleWcfServer.pdb
+D:\Tekstit\julku_ville-veikko\Documents\Project_Documents\RestTest\ConsoleWcfServer\bin\Debug\ClassLibraryWcf.dll
+D:\Tekstit\julku_ville-veikko\Documents\Project_Documents\RestTest\ConsoleWcfServer\bin\Debug\ClassLibraryWcf.pdb
